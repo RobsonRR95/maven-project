@@ -5,7 +5,7 @@
     <body>
         <h1>
             <%
-                        out.prinln("Ola Mundo");
+                        out.println("Ola Mundo");
             %>
         </h1>
     </body>
