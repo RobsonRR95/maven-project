@@ -9,7 +9,9 @@
 
 <link rel="stylesheet" href="Synx_arquivos/style.css">
 
+
 </head>
+
 <body>
            
 
@@ -26,6 +28,8 @@
 
                    <!-- layer nr. 3 -->
                    <div class="tp-parallax-wrap tp-parallax-container" style="position: absolute; display: block; visibility: visible; transform: matrix(1, 0, 0, 1, 0, 0); left: -392px; top: 466px; z-index: 7;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption tp-resizeme rs-parallaxlevel-10" id="layers-three" data-x="['left','left','left','left']" data-hoffset="['-392','-392','-540','-638']" data-y="['bottom','bottom','bottom','bottom']" data-voffset="['-484','-484','-520','-522']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-basealign="slide" data-responsive_offset="on" data-frames="[{&quot;from&quot;:&quot;x:left;rZ:45deg;&quot;,&quot;speed&quot;:2500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:650,&quot;ease&quot;:&quot;Power4.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; border-width: 0px; visibility: inherit; transition: none 0s ease 0s; text-align: left; line-height: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: translate3d(0px, 0px, 0px); transform-origin: 50% 50% 0px;"><img src="Synx_arquivos/papers.png" alt="" data-ww="['900px','900px','900px','900px']" data-hh="['1000px','1000px','1000px','1000px']" data-no-retina="" style="width: 900px; height: 1000px; transition: none 0s ease 0s; text-align: left; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 16px;" width="900" height="1000"> </div></div></div></div>
+
+                   
 
                    <!-- layer nr. 5 -->
                    <div class="tp-parallax-wrap tp-parallax-container" style="position: absolute; display: block; visibility: visible; transform: matrix(1, 0, 0, 1, 0, 0); left: 181px; top: 752px; z-index: 9;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption   tp-resizeme rs-parallaxlevel-11" id="layers-five" data-x="['left','left','left','left']" data-hoffset="['181','181','30','-39']" data-y="['bottom','bottom','bottom','bottom']" data-voffset="['-170','-170','-190','-212']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-basealign="slide" data-responsive_offset="on" data-frames="[{&quot;from&quot;:&quot;y:bottom;rZ:-90deg;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1250,&quot;ease&quot;:&quot;Power4.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9; border-width: 0px; visibility: inherit; transition: none 0s ease 0s; text-align: left; line-height: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 16px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: translate3d(0px, 0px, 0px); transform-origin: 50% 50% 0px;"><img src="Synx_arquivos/header_edding.png" alt="" data-ww="['300px','300px','300px','300px']" data-hh="['400px','400px','400px','400px']" data-no-retina="" style="width: 300px; height: 400px; transition: none 0s ease 0s; text-align: left; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 16px;" width="300" height="400"> </div></div></div></div>
@@ -45,9 +49,23 @@
                    <br><br><br><br><br>
                    <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 857px; top: 300px; z-index: 19;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption tp-resizeme" id="layers-elev" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','-10']" data-fontsize="['18','16','16','16']" data-lineheight="['20','20','20','30']" data-width="['none','none','none','360']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-type="text" data-responsive_offset="on" data-frames="[{&quot;from&quot;:&quot;y:50px;rX:45deg;sX:2;sY:2;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:600,&quot;ease&quot;:&quot;Power4.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 19; visibility: inherit; transition: none 0s ease 0s; text-align: center; line-height: 20px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 18px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: translate3d(0px, 0px, 0px); transform-origin: 50% 50% 0px;">_ I am a leader.<br></div></div></div></div>
 
+
                    <!-- layer nr. 13 -->
                    <br><br><br><br><br>
-                   <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 750px; top: 500px; z-index: 19;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption tp-resizeme" id="layers-elev" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','-10']" data-fontsize="['18','16','16','16']" data-lineheight="['20','20','20','30']" data-width="['none','none','none','360']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-type="text" data-responsive_offset="on" data-frames="[{&quot;from&quot;:&quot;y:50px;rX:45deg;sX:2;sY:2;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:600,&quot;ease&quot;:&quot;Power4.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 19; visibility: inherit; transition: none 0s ease 0s; text-align: center; line-height: 20px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 18px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: translate3d(0px, 0px, 0px); transform-origin: 50% 50% 0px;">You are <input type="text"></input></div></div></div></div>
+                   <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 857px; top: 450px; z-index: 19;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption tp-resizeme" id="layers-elev" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','-10']" data-fontsize="['18','16','16','16']" data-lineheight="['20','20','20','30']" data-width="['none','none','none','360']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-type="text" data-responsive_offset="on" data-frames="[{&quot;from&quot;:&quot;y:50px;rX:45deg;sX:2;sY:2;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:600,&quot;ease&quot;:&quot;Power4.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 19; visibility: inherit; transition: none 0s ease 0s; text-align: center; line-height: 20px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 18px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: translate3d(0px, 0px, 0px); transform-origin: 50% 50% 0px;">  <% if(errorMsg != null){ %>
+																						            <p class="<% if(success){ %>
+																						                        success
+																						                       <% }else{ %>
+																						                        error
+																						                        <% } %>
+																						                      ">
+																						                <%= errorMsg %>
+																						            </p>
+																						<% } %><br></div></div></div></div>
+
+                   <!-- layer nr. 13 -->
+                   <br><br><br><br><br>
+                   <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 750px; top: 500px; z-index: 19;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: visible;"><div class="tp-caption tp-resizeme" id="layers-elev" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['10','10','10','-10']" data-fontsize="['18','16','16','16']" data-lineheight="['20','20','20','30']" data-width="['none','none','none','360']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-type="text" data-responsive_offset="on" data-frames="[{&quot;from&quot;:&quot;y:50px;rX:45deg;sX:2;sY:2;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:600,&quot;ease&quot;:&quot;Power4.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;to&quot;:&quot;opacity:0;&quot;,&quot;ease&quot;:&quot;nothing&quot;}]" data-textalign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 19; visibility: inherit; transition: none 0s ease 0s; text-align: center; line-height: 20px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 18px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: translate3d(0px, 0px, 0px); transform-origin: 50% 50% 0px;">You are <input type="text" name="perssonagem"></input></div></div></div></div>
 
                    
 
@@ -65,6 +83,15 @@
    </div><div class="tp-fullwidth-forcer" style="width: 100%; height: 982px;"></div></div>
 </section>
 <!-- end Ful Screen hero Banner --> 
+
+
+
+
+
+
+
+
+
 
 <!--Footer-->
 <center>
@@ -84,6 +111,36 @@
 
 </footer>
 </center>
+
+<%
+        final HttpSession       Sess = request.getSession();
+        final boolean           JustStarted = Sess.isNew();
+        final String            perssonagem;
+        if(JustStarted){
+                perssonagem = "papa";
+                
+                Sess.setAttribute("perssonagem", perssonagem);
+            } else {
+                perssonagem = (String) Sess.getAttribute("perssonagem");
+            }
+%>
+
+<%
+        String inputText = request.getParameter("perssonagem");
+        String errorMsg = null;
+        boolean success = false;
+        if(!JustStarted) {
+            if (inputText != null && inputText.length() > 0) {
+                String myPerssonagem = String.valueOf(inputText);
+                if (perssonagem != myPerssonagem) {
+                    errorMsg = "Voce errou. Tente Novamante.";
+                } else {
+                    errorMsg = "Acertou!";
+                    success = true;
+                }
+            }
+        }
+    %>
 
 </body>
 </html>
