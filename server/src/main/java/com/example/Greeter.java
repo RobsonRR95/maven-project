@@ -13,7 +13,7 @@ public class Greeter {
   }
   
   public double maiorDouble(double v1, double v2){
-    return 7.0;
+    return v1;
   }
   //TODO: Add javadoc comment
   public String greet(String someone) {
