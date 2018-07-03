@@ -21,7 +21,8 @@ public class TestGreeter {
   public void testaMaiorDouble(){
     double maior = 3;
     double menor = 2;
-    assertEquals(maior,greeter.maiorDouble(maior,menor));
+    boolean ehMaior = greeter.maiorDouble(maior,menor) == maior;
+    assertTrue(ehMaior);
   }
 
   @Test
