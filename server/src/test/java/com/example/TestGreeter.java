@@ -16,6 +16,13 @@ public class TestGreeter {
   public void setup() {
     greeter = new Greeter();
   }
+  
+  @Test
+  public void testaMaiorDouble(){
+    double maior = 3;
+    double menor = 2;
+    assertEquals(maior,greeter.maiorDouble(maior,menor));
+  }
 
   @Test
   public void greetShouldIncludeTheOneBeingGreeted() {
