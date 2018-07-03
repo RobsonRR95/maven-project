@@ -111,7 +111,7 @@
 
 </footer>
 </center>
-
+<%--
 <%
         final HttpSession       Sess = request.getSession();
         final boolean           JustStarted = Sess.isNew();
@@ -141,6 +141,6 @@
             }
         }
     %>
-
+    --%>
 </body>
 </html>
