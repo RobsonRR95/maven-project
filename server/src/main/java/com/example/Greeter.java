@@ -13,8 +13,16 @@ public class Greeter {
   }
   
   public double maiorDouble(double v1, double v2){
-    return v1;
+    if v1 == v2 return 1;
   }
+
+
+
+
+
+
+
+
   //TODO: Add javadoc comment
   public String greet(String someone) {
     return String.format("ssHello, %s!", someone);
